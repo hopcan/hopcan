@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,ros,linux,docker,git,vscode&theme=light" alt="skills" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,ros,linux,docker,git,vscode,ai,ubuntu&theme=light" alt="skills" />
   </a>
 </div>
 
