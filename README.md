@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=F7B93E&center=true&vCenter=true&width=650&lines=Hello+World!;%E6%88%91%E6%98%AF+hopcan;%E6%9C%BA%E5%99%A8%E4%BA%BA+%2F+AI+%E5%BC%80%E5%8F%91%E8%80%85;ROS2+%C2%B7+MuJoCo+%C2%B7+%E6%9C%BA%E6%A2%B0%E8%87%82;%E8%AE%A9%E6%9C%BA%E5%99%A8%E7%90%86%E8%A7%A3%E5%B9%B6%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=F7B93E&center=true&vCenter=true&width=650&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFhopcan;%E6%98%AF%E4%B8%80%E5%90%8D%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%A5%E7%A8%8B%E5%B8%88;%E7%83%AD%E8%A1%B7%E4%BA%8E%E7%A0%94%E7%A9%B6%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9B%B8%E5%85%B3%E7%9A%84%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86" alt="Typing SVG" />
   </a>
 </div>
 
-<h3>👋 你好，我是 hopcan</h3>
+<h3> 🧑‍💻 你好，我是 hopcan</h3>
 
 <p>
-  <em>专注机器人与 AI 应用开发 —— 机械臂控制、ROS2、具身智能、视觉与语音交互。</em>
+  <em>专注机器人与 AI 应用开发 —— 机械臂控制、ROS2、isaac sim、mujoco、Pinocchio、pybullet、具身智能。</em>
 </p>
 
 </div>
