@@ -1,9 +1,8 @@
 <div align="center">
-
-<!-- 动态打字标题 -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=F7B93E&center=true&vCenter=true&width=650&lines=Hello+World!;我是+hopcan;机器人+/+AI+开发者;ROS2+·+MuJoCo+·+机械臂;让机器理解并改变世界" alt="Typing SVG" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=F7B93E&center=true&vCenter=true&width=650&lines=Hello+World!;%E6%88%91%E6%98%AF+hopcan;%E6%9C%BA%E5%99%A8%E4%BA%BA+%2F+AI+%E5%BC%80%E5%8F%91%E8%80%85;ROS2+%C2%B7+MuJoCo+%C2%B7+%E6%9C%BA%E6%A2%B0%E8%87%82;%E8%AE%A9%E6%9C%BA%E5%99%A8%E7%90%86%E8%A7%A3%E5%B9%B6%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C" alt="Typing SVG" />
+  </a>
+</div>
 
 <h3>👋 你好，我是 hopcan</h3>
 
