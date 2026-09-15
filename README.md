@@ -1,7 +1,13 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=F7B93E&center=true&vCenter=true&width=650&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFhopcan;%E6%98%AF%E4%B8%80%E5%90%8D%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%A5%E7%A8%8B%E5%B8%88;%E7%83%AD%E8%A1%B7%E4%BA%8E%E7%A0%94%E7%A9%B6%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9B%B8%E5%85%B3%E7%9A%84%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86" alt="Typing SVG" />
-  </a>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=FF4D4D&center=true&vCenter=true&width=650&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFhopcan" alt="line1" />
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=36CFC9&center=true&vCenter=true&width=650&lines=%E6%98%AF%E4%B8%80%E5%90%8D%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%A5%E7%A8%8B%E5%B8%88" alt="line2" />
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=FFA940&center=true&vCenter=true&width=650&lines=%E7%83%AD%E8%A1%B7%E4%BA%8E%E7%A0%94%E7%A9%B6%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9B%B8%E5%85%B3%E7%9A%84%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86" alt="line3" />
+
 </div>
 
 <h3> 🧑‍💻 你好，我是 hopcan</h3>
@@ -14,7 +20,7 @@
 
 ---
 
-## 🧰 技术栈
+## ⚙️ 技术栈
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -24,7 +30,7 @@
 
 ---
 
-## 📊 GitHub 数据
+## 🚀 GitHub 数据
 
 <div align="center">
 
